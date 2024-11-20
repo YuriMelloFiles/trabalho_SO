@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timezone
 import matplotlib.pyplot as plt
 
-#teste branch
+
 
 # Lista para armazenar as informações de tempo de cada tarefa
 task_times = []
