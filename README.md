@@ -57,6 +57,8 @@ Fila de E/S: []
 
 ## **Visualização**
 O programa gerou um gráfico que mostra o tempo de execução de cada processo ao longo do tempo. O gráfico utiliza blocos coloridos para representar os intervalos de execução de cada processo.
+![Figure_1](https://github.com/user-attachments/assets/e600b9da-2e49-4c91-af7b-f8000b2fb22e)
+
 
 ---
 
